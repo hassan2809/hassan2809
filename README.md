@@ -5,6 +5,12 @@
 <br/>
 
 <div align="center">
+  <strong>Full Stack &nbsp;·&nbsp; React Native &nbsp;·&nbsp; AI Agents</strong>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=React+Native+%2B+Expo+mobile+apps;Next.js+%2F+Node.js+%2F+NestJS+backends;RAG+pipelines+%26+LLM+tool-calling+agents;Shipping+for+international+clients+since+2024)](https://git.io/typing-svg)
 
@@ -42,11 +48,8 @@
 | Project | Stack | Links |
 |---|---|---|
 | **Guard XP** — React Native app for private security officers. GPS, scheduling, body cam, real-time messaging. | React Native · Expo · NestJS · Socket.IO · AWS S3 | 🔒 Private |
-| **ZEZT** — Cross-platform deals & booking app with location-based offers and real-time chat. | React Native · Expo · Socket.IO | [↗ GitHub](https://github.com/hassan2809/ZEZT_App) |
-| **AI Storybook** — SaaS that generates personalized AI-illustrated children's books. GPT-4 + DALL-E 3. | MERN · GPT-4 · DALL-E 3 · Redis · Stripe | [↗ GitHub](https://github.com/hassan2809/AI-Story-Book) |
-| **SafeStreet** — Road safety platform live across Australian states for law enforcement. | React · Node.js · MongoDB · Google Maps | [↗ GitHub](https://github.com/hassan2809/SafeStreet) |
-| **eCom Central** — E-commerce ops platform handling 50,000+ monthly FBA shipments. | Next.js · tRPC · PostgreSQL · BigQuery | [↗ GitHub](https://github.com/hassan2809/eComCentral) |
-| **MS Mailbox** — Microsoft 365 automation that cut client onboarding time by 85%. | Node.js · Azure MSAL · Graph API | [↗ GitHub](https://github.com/hassan2809/MS_Mailbox) |
+| **eCom Central** — E-commerce ops platform handling 50,000+ monthly FBA shipments and $3M+ monthly volume. | Next.js · tRPC · PostgreSQL · BigQuery | 🔒 Private |
+| **SafeStreet** — Road safety incident platform live across Australian states for law enforcement agencies. | React · Node.js · MongoDB · Google Maps | 🔒 Private |
 
 </div>
 
@@ -56,7 +59,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=hassan2809&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2809&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&border_radius=10" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hassan2809&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&border_radius=10" />
 </p>
 
 <p align="center">
@@ -74,7 +77,6 @@
 ---
 
 <div align="center">
-  <a href="https://hassanmehmood.online">🌐 hassanmehmood.online</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/hassan-mehmood-346954243">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:chaudahryhassan786@gmail.com">Email</a>
 </div>
