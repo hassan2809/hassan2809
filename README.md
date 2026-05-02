@@ -30,7 +30,7 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,nextjs,typescript,javascript,nodejs,nestjs,python,postgresql,mongodb,redis,aws,docker,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,nestjs,py,mongodb,postgres,redis,aws,docker&perline=7" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassan2809&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=hassan2809&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2809&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&border_radius=10" />
 </p>
 
