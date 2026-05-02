@@ -1,50 +1,86 @@
-<h1 align="center">Hi 👋, I'm Hassan Mehmood</h1>
-<h3 align="center">Full Stack Developer | MERN, Next.js, React Native | Building with AI</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Hassan%20Mehmood&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20React%20Native%20Developer%20%7C%20Building%20with%20Agentic%20AI&descAlignY=58&descSize=17" />
+</div>
 
 <br/>
 
-- 🔭 I'm currently working on **Guard XP** — a full-stack security operations platform
-- 🌱 I'm currently learning **Agentic AI, LangChain, RAG Pipelines**
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, TypeScript, React Native**
-- 📫 How to reach me **chaudahryhassan786@gmail.com**
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=React+Native+%2B+Expo+mobile+apps;Next.js+%2F+Node.js+%2F+NestJS+backends;RAG+pipelines+%26+LLM+tool-calling+agents;Shipping+for+international+clients+since+2024)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hassan-mehmood-346954243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:chaudahryhassan786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
+</div>
+
+---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+**I build things that ship.**
+
+2+ years delivering production apps for clients across e-commerce, road safety, fintech, and security operations. Currently working on a React Native mobile platform for private security companies and exploring agentic AI on the side — RAG pipelines, vector search, and LLM tool-calling agents in Python.
+
+- 📱 Mobile-first when it makes sense — React Native + Expo
+- 🌐 Full-stack web when it doesn't — Next.js + Node.js + NestJS
+- 🤖 Agentic AI — building, not just reading about it
+- 🌍 All work is production, all clients are real
+
+<br clear="right"/>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,typescript,javascript,nodejs,nestjs,python,postgresql,mongodb,redis,aws,docker,git&perline=7" />
 </p>
 
-<br/>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+### What I've shipped
 
-  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<div align="center">
+
+| Project | Stack | Links |
+|---|---|---|
+| **Guard XP** — React Native app for private security officers. GPS, scheduling, body cam, real-time messaging. | React Native · Expo · NestJS · Socket.IO · AWS S3 | 🔒 Private |
+| **ZEZT** — Cross-platform deals & booking app with location-based offers and real-time chat. | React Native · Expo · Socket.IO | [↗ GitHub](https://github.com/hassan2809/ZEZT_App) |
+| **AI Storybook** — SaaS that generates personalized AI-illustrated children's books. GPT-4 + DALL-E 3. | MERN · GPT-4 · DALL-E 3 · Redis · Stripe | [↗ GitHub](https://github.com/hassan2809/AI-Story-Book) |
+| **SafeStreet** — Road safety platform live across Australian states for law enforcement. | React · Node.js · MongoDB · Google Maps | [↗ GitHub](https://github.com/hassan2809/SafeStreet) |
+| **eCom Central** — E-commerce ops platform handling 50,000+ monthly FBA shipments. | Next.js · tRPC · PostgreSQL · BigQuery | [↗ GitHub](https://github.com/hassan2809/eComCentral) |
+| **MS Mailbox** — Microsoft 365 automation that cut client onboarding time by 85%. | Node.js · Azure MSAL · Graph API | [↗ GitHub](https://github.com/hassan2809/MS_Mailbox) |
+
+</div>
+
+---
+
+### Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassan2809&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2809&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&border_radius=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan2809&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true" />
+</p>
+
+---
+
+### Currently
+
+- 🔨 Finishing Guard XP mobile app
+- 🧠 Going deeper into agentic AI — multi-agent orchestration and tool use
+- 👀 Open to React Native, full-stack, and AI integration roles
+
+---
+
+<div align="center">
+  <a href="https://hassanmehmood.online">🌐 hassanmehmood.online</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/hassan-mehmood-346954243">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:chaudahryhassan786@gmail.com">Email</a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&animation=fadeIn" />
+</div>
