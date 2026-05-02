@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1&pause=999999&color=FFFFFF&background=0F0C2900&center=true&vCenter=true&width=700&height=80&lines=Hassan+Mehmood" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=999999&color=A78BFA&background=0F0C2900&center=true&vCenter=true&width=700&height=30&lines=Full+Stack+%26+React+Native+Developer+%7C+Building+with+Agentic+AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hassan%20Mehmood&fontColor=ffffff" />
 </div>
 
 <br/>
@@ -14,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 **I build things that ship.**
 
@@ -32,7 +30,7 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,typescript,javascript,nodejs,nestjs,python,postgresql,mongodb,redis,aws,docker,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,expo,nextjs,typescript,javascript,nodejs,nestjs,python,postgresql,mongodb,redis,aws,docker,git&perline=7" />
 </p>
 
 ---
@@ -84,5 +82,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=999999&color=A78BFA&background=0F0C2900&center=true&vCenter=true&width=500&height=30&lines=Open+to+React+Native+%2C+Full-Stack+%26+AI+roles" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=ffffff&section=footer" />
 </div>
