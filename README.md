@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Hassan%20Mehmood&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20React%20Native%20Developer%20%7C%20Building%20with%20Agentic%20AI&descAlignY=58&descSize=17" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1&pause=999999&color=FFFFFF&background=0F0C2900&center=true&vCenter=true&width=700&height=80&lines=Hassan+Mehmood" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=999999&color=A78BFA&background=0F0C2900&center=true&vCenter=true&width=700&height=30&lines=Full+Stack+%26+React+Native+Developer+%7C+Building+with+Agentic+AI" />
 </div>
 
 <br/>
@@ -82,5 +84,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=999999&color=A78BFA&background=0F0C2900&center=true&vCenter=true&width=500&height=30&lines=Open+to+React+Native+%2C+Full-Stack+%26+AI+roles" />
 </div>
